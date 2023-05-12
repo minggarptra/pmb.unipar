@@ -1,0 +1,14 @@
+{
+    "feather": {
+        "normal": "feather_normal_d77e63a766dc8b5cef182b66f0f07984"
+    },
+    "themify": {
+        "normal": "themify_normal_c516663e24052660c389d4a5d253d83a"
+    },
+    "nunito": {
+        "300": "D:\\xampp74\\htdocs\\spmb\\application\\libraries\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_300_def004bac6da847fb6cc88d8dbc327b0",
+        "bold": "D:\\xampp74\\htdocs\\spmb\\application\\libraries\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_bold_d3a34bd0034be0e4eee0ecda7a69a17e",
+        "500": "D:\\xampp74\\htdocs\\spmb\\application\\libraries\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_500_22f651f2356eef95facadb7db9c6b8c5",
+        "normal": "nunito_normal_a125cdaa7e6150967ce7bde253cfce52"
+    }
+}

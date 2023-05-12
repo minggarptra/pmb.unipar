@@ -1,0 +1,31 @@
+/****************************/
+/** Imports Plugin css **/
+/****************************/
+@import url(../../assets/vendor_components/bootstrap/dist/css/bootstrap.css);
+@import url(../../assets/vendor_components/perfect-scrollbar/css/perfect-scrollbar.css);
+@import url(../../assets/vendor_components/OwlCarousel2/dist/assets/owl.carousel.css);
+@import url(../../assets/vendor_components/OwlCarousel2/dist/assets/owl.theme.default.min.css);
+@import url(../../assets/vendor_components/horizontal-timeline/css/horizontal-timeline.css);
+@import url(../../assets/vendor_components/lightbox-master/dist/ekko-lightbox.css);
+@import url(../../assets/vendor_components/sweetalert/sweetalert.css);  
+@import url(../../assets/vendor_components/dropzone/dropzone.css);
+@import url(../../assets/vendor_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css);
+@import url(../../assets/vendor_components/bootstrap-select/dist/css/bootstrap-select.css);
+@import url(../../assets/vendor_components/bootstrap-tagsinput/dist/bootstrap-tagsinput.css);
+@import url(../../assets/vendor_components/bootstrap-touchspin/dist/jquery.bootstrap-touchspin.css);
+@import url(../../assets/vendor_components/ion-rangeSlider/css/ion.rangeSlider.css);
+@import url(../../assets/vendor_components/ion-rangeSlider/css/ion.rangeSlider.skinModern.css);
+@import url(../../assets/vendor_components/jquery-toast-plugin-master/src/jquery.toast.css);
+@import url(../../assets/vendor_components/nestable/nestable.css);
+@import url(../../assets/vendor_components/c3/c3.min.css);
+@import url(../../assets/vendor_plugins/bootstrap-slider/slider.css);
+@import url(../../assets/vendor_plugins/iCheck/flat/blue.css);
+@import url(../../assets/vendor_plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css);
+@import url(../../assets/vendor_plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.css);
+@import url(../../assets/vendor_plugins/iCheck/all.css);
+@import url(../../assets/vendor_plugins/timepicker/bootstrap-timepicker.min.css);
+@import url(../../assets/vendor_plugins/pace/pace.min.css);
+
+@import url(../../assets/vendor_components/weather-icons/weather-icons.css);
+
+/*# sourceMappingURL=vendors_css.css.map */
